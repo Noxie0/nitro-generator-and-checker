@@ -12,13 +12,19 @@
 ## Install
 
 ```sh
+# Windows:
 py -3 -m pip install requests
+py -3 -m pip install discord_webhook
+
+# Unix
+python3.8 -m pip install requests
+python3.8 -m pip install discord_webhook
 ```
 
 ## Usage
 
 ```sh
-py -3 -m pip insall discord_webhook
+py -3 main.py
 ```
 
 ## Author
@@ -36,4 +42,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
