@@ -6,7 +6,7 @@
 ### 🏠 [Homepage](https://github.com/csa77game/nitro-generator-and-checker)
 
 ### Prerequisites
-You need to install python, that can be done [here](https://www.python.org)
+You need to install python, that can be done [here](https://www.python.org).
 
 ## Install
 ```sh
