@@ -1,16 +1,14 @@
 <h1 align="center">Welcome to Discord Nitro Generator and Checker 👋</h1>
-<p>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-</p>
+
 
 > Easy To Use Discord Nitro Generator
 
 ### 🏠 [Homepage](https://github.com/csa77game/nitro-generator-and-checker)
 
-## Install
+### Prerequisites
+You need to install python, that can be done [here](https://www.python.org)
 
+## Install
 ```sh
 # Windows:
 py -3 -m pip install requests
@@ -33,8 +31,8 @@ The code will start generatring and checking after that step
 ## Author
 👤 **Noxie**
 
-* Discord: https://discord.com/cvVvFrf
-* Website: https://gamerfun.club
+* [Discord](https://discord.com/cvVvFrf)
+* [Website](https://gamerfun.club)
 
 ## 🤝 Contributing
 
