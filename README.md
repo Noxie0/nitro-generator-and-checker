@@ -3,7 +3,7 @@
 
 > Easy To Use Discord Nitro Generator
 
-### 🏠 [Homepage](https://github.com/csa77game/nitro-generator-and-checker)
+### 🏠 [Homepage](https://github.com/Noxie0/nitro-generator-and-checker)
 
 ### Prerequisites
 You need to install python, that can be done [here](https://www.python.org).
@@ -36,7 +36,7 @@ The code will start generatring and checking after that step
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/csa77game/nitro-generator-and-checker/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Noxie0/nitro-generator-and-checker/issues). 
 
 ## Show your support
 
