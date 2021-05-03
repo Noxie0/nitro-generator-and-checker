@@ -30,6 +30,7 @@ The code will show you two promps:
 
 The code will start generatring and checking after that step
 
+## Author
 👤 **Noxie**
 
 * Website: discord.com/cvVvFrf
