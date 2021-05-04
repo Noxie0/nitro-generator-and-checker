@@ -4,6 +4,7 @@
 > Easy To Use Discord Nitro Generator
 
 ### 🏠 [Homepage](https://github.com/Noxie0/nitro-generator-and-checker)
+### Main Code Created By [Logicguy1](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
 
 ### Prerequisites
 You need to install python, that can be done [here](https://www.python.org).
